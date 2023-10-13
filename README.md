@@ -33,6 +33,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='[https://imgur.com/a/akYsxOt.gif' title='Project 5: BitFit Part 1 - TONY REIN' width='' alt='Video Walkthrough' />
 
+https://imgur.com/a/akYsxOt.gif
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with IMGUR
 <!-- Recommended tools:
